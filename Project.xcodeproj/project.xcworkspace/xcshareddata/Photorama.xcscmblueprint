@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64C621F482F2611D4CFFB2E08DAA56D6031B441D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "64C621F482F2611D4CFFB2E08DAA56D6031B441D" : 0,
+    "DAB9FC402ABD4B4A9D9F3886F409899EF269CDBA" : 0,
+    "023C046D7BC226924BBAD83456E847BF59264631" : 0,
+    "1A05AC0759FC290F56862DE02CD56389F41CC7CE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "81A76565-9632-4456-AAF1-AADEC1437431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "64C621F482F2611D4CFFB2E08DAA56D6031B441D" : "Photorama\/",
+    "DAB9FC402ABD4B4A9D9F3886F409899EF269CDBA" : "BNR-Swift-Programming\/",
+    "023C046D7BC226924BBAD83456E847BF59264631" : "..",
+    "1A05AC0759FC290F56862DE02CD56389F41CC7CE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Photorama",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Photorama\/Photorama.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/unit-2-final-project-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "023C046D7BC226924BBAD83456E847BF59264631"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/Alarmify-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A05AC0759FC290F56862DE02CD56389F41CC7CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/Photorama.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64C621F482F2611D4CFFB2E08DAA56D6031B441D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/BNR-Swift-Programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAB9FC402ABD4B4A9D9F3886F409899EF269CDBA"
+    }
+  ]
+}
